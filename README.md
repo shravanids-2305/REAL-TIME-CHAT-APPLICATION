@@ -22,6 +22,9 @@ React.js
 JavaScript (ES6+)
 
 HTML5 & CSS3
+
 #OUTPUT
+<img width="1368" height="911" alt="Image" src="https://github.com/user-attachments/assets/2027543e-8771-434e-9506-ec133133b7c6" />
+<img width="1368" height="911" alt="Image" src="https://github.com/user-attachments/assets/90588228-9034-4d40-9fc8-53a3d78ec377" />
 
 
